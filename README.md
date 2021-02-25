@@ -1,22 +1,6 @@
+# <img width="50" src="https://i.giphy.com/media/xUOwGd5bPvmjbCRNcY/giphy.webp"/> Hello everyone 
 
-<!--
-**blyndusk/blyndusk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blyndusk)](https://github.com/anuraghazra/github-readme-stats)
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hello everyone ☕
-
-⏲️ I'm **Alexandre Delaloy**, a *21yo developer addicted to coffee* who's using web languages for more than **3 years**.
+⏲️ I'm **Alexandre Delaloy**, a *21yo developer addicted to coffee* who's been using web languages for more than **3 years**.
 
 🎓 Formerly a **full-time front-end developer**, and after a *[bachelor's degree](https://www.hetic.net/formations/bachelor-web)* at **[HETIC](https://www.hetic.net/) school**, I am currently doing a *[master's degree](https://www.hetic.net/formations/mastere-cto-tech-lead)* also at HETIC to become a **Site Reliability Engineer**. 
 
@@ -24,7 +8,7 @@ Here are some ideas to get you started:
 
 -----
 
-💥 Lately, I am learning **[Golang](https://golang.org/)** for *school* and *personal projects*, while developing in **[Vue.js](https://vuejs.org/)** for *Fogo-Capital*. 
+💥 Lately, I am learning **[Golang](https://golang.org/)** for *school* and *personal projects*, while developing in **[Vue.js](https://vuejs.org/)** for *Fogo-Capital*. I am also responsible for the **CI/CD** of all our projects via **Docker**, **Kubernetes** and **GitHub Actions**.
 
 💭 I'd like to free some time to get more interested in **electronics** and projects using **[Arduino](https://www.arduino.cc/)**
 
