@@ -1,4 +1,4 @@
-# <img width="50" src="https://i.giphy.com/media/xUOwGd5bPvmjbCRNcY/giphy.webp"/> Hello everyone 
+# Hello everyone <img width="66.6" src="https://i.giphy.com/media/xUOwGd5bPvmjbCRNcY/giphy.webp"/> 
 
 ⏲️ I'm **Alexandre Delaloy**, a *21yo developer addicted to coffee* who's been using web languages for more than **3 years**.
 
