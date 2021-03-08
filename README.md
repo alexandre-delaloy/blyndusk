@@ -1,6 +1,6 @@
 # Hello everyone <img width="66.6" src="https://i.giphy.com/media/Td2swvPaZXgfQBwPze/giphy.webp"/> 
 
-⏲️ I'm **Alexandre Delaloy**, a *21yo developer, coffee lover☕*, who's been using web languages for more than **3 years**.
+⏲️ I'm **Alexandre Delaloy**, a *21yo developer, coffee lover*, who's been using web languages for more than **3 years**.
 
 🎓 Formerly a **full-time front-end developer**, and after a *[bachelor's degree](https://www.hetic.net/formations/bachelor-web)* at **[HETIC](https://www.hetic.net/) school**, I am currently doing a *[master's degree](https://www.hetic.net/formations/mastere-cto-tech-lead)* also at HETIC to become a **Site Reliability Engineer**. 
 
