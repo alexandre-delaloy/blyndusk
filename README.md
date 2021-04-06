@@ -21,3 +21,5 @@
 ------
 
 ![stats](https://github-readme-stats.vercel.app/api?username=blyndusk&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blyndusk&layout=compact&theme=tokyonight)
