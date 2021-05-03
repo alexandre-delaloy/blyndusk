@@ -30,6 +30,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Go       1 hr 49 mins    █████████░░░░░░░░░░░░░░░░   36.36 % 
+YAML     1 hr 37 mins    ████████░░░░░░░░░░░░░░░░░   32.61 % 
+Bash     42 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Other    32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Docker   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 ```
 <!--END_SECTION:waka-->
