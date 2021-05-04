@@ -8,9 +8,11 @@
 
 ⏲️ I'm **Alexandre Delaloy**, a *21yo developer, coffee lover*, who's been using web languages for more than **3 years**.
 
-🎓 Formerly a **full-time front-end developer**, and after a *[bachelor's degree](https://www.hetic.net/formations/bachelor-web)* at **[HETIC](https://www.hetic.net/) school**, I am currently doing a *[master's degree](https://www.hetic.net/formations/mastere-cto-tech-lead)* also at HETIC to become a **Site Reliability Engineer**. 
+🎓 Formerly a **full-time front-end developer**, and after a *[bachelor's degree](https://www.hetic.net/formations/bachelor-web)* (Bachelor Web Developer) at **[HETIC](https://www.hetic.net/) school**, I am currently doing a *[master's degree](https://www.hetic.net/formations/mastere-cto-tech-lead)* (Master CTO tech Lead) also at HETIC to become a **Site Reliability Engineer**. 
 
 > “Site reliability engineers create a bridge between development and operations by applying a software engineering mindset to system administration topics.”
+
+<br/>
 
 -----
 
