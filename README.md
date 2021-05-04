@@ -8,7 +8,7 @@
 
 -----
 
-💥 Lately, I am learning **[Golang](https://golang.org/)** for *school* and *personal projects*, while developing in **[Vue.js](https://vuejs.org/)** for *Fogo-Capital*. I am also responsible for the **CI/CD** of all our projects via **Docker**, **Kubernetes** and **GitHub Actions**.
+💥 Lately, I am learning **[Golang](https://golang.org/)** for *school* and *personal projects*, while working for *Fogo-Capital* on an internship contract, being responsible of the **CI/CD and Automation** of all our projects via **[Docker](https://www.docker.com/)**, **[Kubernetes](https://kubernetes.io/)** and **[GitHub Actions](https://github.com/features/actions)**.
 
 💭 I'd like to free some time to get more interested in **electronics** and projects using **[Arduino](https://www.arduino.cc/)**
 
@@ -20,7 +20,8 @@
 
 ------
 
-![stats](https://github-readme-stats.vercel.app/api?username=blyndusk&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
+<!--![stats](https://github-readme-stats.vercel.app/api?username=blyndusk&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
+-->
 <!-- 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blyndusk&repo=cofy&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 -->
