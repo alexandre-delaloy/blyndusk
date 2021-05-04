@@ -1,4 +1,10 @@
-# Hello everyone <img width="66.6" src="https://i.giphy.com/media/Td2swvPaZXgfQBwPze/giphy.webp"/> 
+# Bonjour,
+
+
+
+<img width="33%" align="right" alt="coffee" src="https://i.giphy.com/media/pOqtsmTZGLInlHXai6/giphy.webp"/> 
+
+
 
 ⏲️ I'm **Alexandre Delaloy**, a *21yo developer, coffee lover*, who's been using web languages for more than **3 years**.
 
