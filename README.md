@@ -1,12 +1,34 @@
 # Bonjour \o/ 
 
-<img width="45%" align="left" alt="coffee" src="https://media2.giphy.com/media/xFlwfGFN6ddtK2B05t/giphy.gif?cid=ecf05e47aggiu96mu12dclno3er24bp1r17ldgsoepnyjway&rid=giphy.gif&ct=g"/> 
+<img width="100%" align="left" alt="coffee" src="https://media2.giphy.com/media/xFlwfGFN6ddtK2B05t/giphy.gif?cid=ecf05e47aggiu96mu12dclno3er24bp1r17ldgsoepnyjway&rid=giphy.gif&ct=g"/> 
 
-⏲️ I'm **Alexandre Delaloy**, a *21yo developer, coffee lover*, who's been using web languages for more than **3 years**.
+ *Hello There,*
 
-🎓 Formerly a **full-time front-end developer**, and after a *[bachelor's degree](https://www.hetic.net/formations/bachelor-web)* (Bachelor Web Developer) at **[HETIC](https://www.hetic.net/) school**, I am currently doing a *[master's degree](https://www.hetic.net/formations/mastere-cto-tech-lead)* (Master CTO tech Lead) also at HETIC to become a **Site Reliability Engineer**. 
+```
+Me
+- - - - - -
+Alexandre Delaloy                                23yo
+23yo cloud/platform engineer             soft dev bud
+3y(bachelor) + 2y(master)    at HETIC school at Paris
+2y work front-end dev      +       2y work devops SRE   
 
-> “Site reliability engineers create a bridge between development and operations by applying a software engineering mindset to system administration topics.”
+Active stack
+- - - - - -
+Languages  | Golang Bash/Shell Yaml
+Tools      | Kubernetes Docker Terraform 
+Services   | AWS ArgoCD ES Grafana Harbor Jaeger Istio
+Platform   | GitHub GitLab   
+
+Non-active stack
+- - - - - -
+Languages  | HTML5 CSS3 JS
+Frameworks | ReactJS VueJS NodeJS 
+
+
+Active projects
+- - - - - -
+Go-éland   | Personal Ubuntu conf setup assistant
+```
 
 -----
 

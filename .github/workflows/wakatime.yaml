@@ -3,7 +3,6 @@ name: Wakatime
 on:
   workflow_dispatch:
   schedule:
-       # Runs every 1 hours UTC
        - cron: '0 */6 * * *'
 
 jobs:
