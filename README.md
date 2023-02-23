@@ -1,8 +1,6 @@
 # Bonjour \o/ 
 
-<img width="100%" align="left" alt="coffee" src="https://media2.giphy.com/media/xFlwfGFN6ddtK2B05t/giphy.gif?cid=ecf05e47aggiu96mu12dclno3er24bp1r17ldgsoepnyjway&rid=giphy.gif&ct=g"/> 
-
- *Hello There,*
+<img width="50%" align="left" alt="coffee" src="https://i.pinimg.com/736x/82/28/7a/82287ab5d3e899570a174e4fd73696bc.jpg"/> 
 
 ```
 Me
