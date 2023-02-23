@@ -43,16 +43,7 @@ Other      1 hr 41 mins    ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ------
 
-<img width="50%" align="right" alt="coffee" src="https://github-readme-stats.vercel.app/api?username=blyndusk&count_private=true&include_all_commits=true&show_icons=true&theme=nord"/> 
-
-💥 Lately, I am learning **[Golang](https://golang.org/)** for *school* and *personal projects*, while working for *Fogo-Capital* on an internship contract, being responsible of the **CI/CD and Automation** of all our projects via **[Scaleway](https://www.scaleway.com/en/)**, **[Docker](https://www.docker.com/)**, **[Kubernetes](https://kubernetes.io/)** and **[GitHub Actions](https://github.com/features/actions)**.
-
-> 💭 I'd like to free some time to get more interested in **electronics** and projects using **[Arduino](https://www.arduino.cc/)**
+<img width="100%" align="right" alt="coffee" src="https://github-readme-stats.vercel.app/api?username=blyndusk&count_private=true&include_all_commits=true&show_icons=true&theme=nord"/> 
 
 ------
 
-<p>
-  <h3 style="font:24px">✍🏻 Feel free to contact me</h3>
-  <a href="mailto:alexandre.delaloy.pro@gmail.com"><img src="https://img.shields.io/badge/Alexandre%20Delaloy-black?style=for-the-badge&logo=gmail" alt="mail"/></a>
-  <a href="https://www.linkedin.com/in/alexandre-delaloy"><img src="https://img.shields.io/badge/Alexandre%20Delaloy-black?style=for-the-badge&logo=linkedin" alt="mail"/></a>
-</p>
