@@ -1,6 +1,6 @@
 # Hello, There 👋
 
-<img width="40%" align="left" alt="coffee" src="https://i.pinimg.com/736x/82/28/7a/82287ab5d3e899570a174e4fd73696bc.jpg"/> 
+<img width="35%" align="left" alt="coffee" src="https://i.pinimg.com/736x/82/28/7a/82287ab5d3e899570a174e4fd73696bc.jpg"/> 
 
 ```
 Me
@@ -21,12 +21,6 @@ Non-active stack
 - - - - - -
 Languages  | HTML5 CSS3 JS
 Frameworks | ReactJS VueJS NodeJS 
-
-
-Active projects
-- - - - - -
-Go-éland   | Personal Ubuntu conf setup assistant
-```
 
 <!--START_SECTION:waka-->
 
