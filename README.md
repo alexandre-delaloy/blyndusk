@@ -27,7 +27,7 @@ Frameworks | ReactJS VueJS NodeJS
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2023 - To: 14 November 2023
+From: 08 November 2023 - To: 15 November 2023
 
 No activity tracked
 ```
